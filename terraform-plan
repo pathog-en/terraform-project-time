@@ -1,0 +1,11 @@
+terraform/
+├── main.tf
+├── providers.tf
+├── variables.tf
+├── outputs.tf
+├── versions.tf
+├── vpc.tf
+├── subnets.tf
+├── routing.tf
+├── security_groups.tf
+└── README.md
